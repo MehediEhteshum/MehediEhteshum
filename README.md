@@ -5,7 +5,7 @@
 - <b>Front End Projects</b>
   - [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project) (Typescript, Angular, Angular Material, SCSS, LESS, Bootstrap)
 - <b>Back End Projects</b>
-  - [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) (JavaScript, ExpressJS, REST API, MongoDB, AWS Storage, Replit)
+  - [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) (JavaScript, NodeJS, ExpressJS, REST API, MongoDB, AWS Storage, Replit)
 - <b>Data Structures and Algorithms</b>
   - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) (JavaScript)
 
