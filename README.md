@@ -13,11 +13,11 @@
   - [Upspace](https://upspace.ca/)'s office space rental app (Ruby on Rails, AJAX)
 - <b>Front End Projects</b>
   - Project management for [Intelliva](https://intelliva.ca/)'s new website - not yet published (Jira, JavaScript, React, SCSS)
-  - [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project) (TypeScript, Angular, Angular Material, SCSS, LESS, Bootstrap)
+  - [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project) UI app (TypeScript, Angular, Angular Material, SCSS, LESS, Bootstrap)
 - <b>Back End Projects</b>
-  - [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) (JavaScript, NodeJS, ExpressJS, REST API, MongoDB, AWS Storage, Replit)
+  - [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) API app (JavaScript, NodeJS, ExpressJS, REST API, MongoDB, AWS Storage, Replit)
 - <b>Data Structures and Algorithms</b>
-  - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) (JavaScript)
+  - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) problem-solving (JavaScript)
 
 <h2>📈 Data Analysis and Visualization Projects:</h2>
 
