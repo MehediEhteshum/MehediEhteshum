@@ -3,30 +3,32 @@
 <h2>🌩️ System/Cloud Administration Projects:</h2>
 
 - <b>Active Directory Projects</b>
-  - Active directory setup for [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app & sales report generation for [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s warehouse app, based on the least privilege access and role based access control RBAC 
+  - Active directory setup for [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app & sales report generation for [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s warehouse app, based on the least privilege access and role based access control RBAC
+- <b>Monitoring Projects</b>
+  - Integrated Google Analytics & Google Tag Manager in [Ponts Jacques Cartier and Champlain Bridges](https://jacquescartierchamplain.ca/en/)' web pages & forms
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Projects</b>
-  - [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app (TypeScript, C#, React, Dotnet Core, SQL)
-  - [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s warehouse app (Java, Wildfly, SQL)
-  - [Upspace](https://upspace.ca/)'s office space rental app (Ruby on Rails, AJAX)
+  - [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app (`TypeScript, C#, React, Dotnet Core, SQL`)
+  - [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s warehouse app (`Java, Wildfly, SQL`)
+  - [Upspace](https://upspace.ca/)'s office space rental app (`Ruby on Rails, AJAX`)
 - <b>Front End Projects</b>
-  - Project management for [Intelliva](https://intelliva.ca/)'s new website - not yet published (Jira, JavaScript, React, SCSS)
-  - [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project) UI app (TypeScript, Angular, Angular Material, SCSS, LESS, Bootstrap)
+  - Project management for [Intelliva](https://intelliva.ca/)'s new website - not yet published (`Jira, JavaScript, React, SCSS`)
+  - [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project) UI app (`TypeScript, Angular, Angular Material, SCSS, LESS, Bootstrap`)
 - <b>Back End Projects</b>
-  - [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) API app (JavaScript, NodeJS, ExpressJS, REST API, MongoDB, AWS Storage, Replit)
+  - [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) API app (`JavaScript, NodeJS, ExpressJS, REST API, MongoDB, AWS Storage, Replit`)
 - <b>Data Structures and Algorithms</b>
-  - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) problem-solving (JavaScript)
+  - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) problem-solving (`JavaScript`)
 
 <h2>📈 Data Analysis and Visualization Projects:</h2>
 
 - <b>Data Wrangling and Visualization</b>
-  - [Car Price Data Wrangling and Viz](https://github.com/MehediEhteshum/CarPriceDataWranglingViz/blob/master/CarPrice-DataWrangling%26Viz.ipynb) (Pandas, Numpy, Matplotlib)
+  - [Car Price Data Wrangling and Viz](https://github.com/MehediEhteshum/CarPriceDataWranglingViz/blob/master/CarPrice-DataWrangling%26Viz.ipynb) (`Pandas, Numpy, Matplotlib`)
 - <b>Exploratory Data Analysis and Visualization</b>
-  - [Car Data - Exploratory Data Analysis](https://github.com/MehediEhteshum/CarDataExploratoryAnalysisViz/blob/master/CarData-EDA%26Viz.ipynb) (Pandas, Numpy, Matplotlib, Seaborn)
+  - [Car Data - Exploratory Data Analysis](https://github.com/MehediEhteshum/CarDataExploratoryAnalysisViz/blob/master/CarData-EDA%26Viz.ipynb) (`Pandas, Numpy, Matplotlib, Seaborn`)
 - <b>Model Development and Evaluation</b>
-  - [Car Data - Model Development and Evaluation](https://github.com/MehediEhteshum/CarDataModelDevEvaluation/blob/master/CarData-MDE.ipynb) (Pandas, Numpy, Matplotlib, Seaborn)
+  - [Car Data - Model Development and Evaluation](https://github.com/MehediEhteshum/CarDataModelDevEvaluation/blob/master/CarData-MDE.ipynb) (`Pandas, Numpy, Matplotlib, Seaborn`)
 
 <h2> 🤳 Connect with me:</h2>
 
