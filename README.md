@@ -1,9 +1,19 @@
 <h1>Hi, I'm Mehedi! <br/><a href="https://github.com/MehediEhteshum">Software Engineer</a>, <a href="https://www.linkedin.com/in/mehediehteshum/">IT System/Cloud Professional</a></h1>
 
+<h2>🌩️ System/Cloud Administration Projects:</h2>
+
+- <b>Active Directory Projects</b>
+  - Active directory setup for [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app & sales report generation for [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s warehouse app, based on the least privilege access and role based access control RBAC 
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Full Stack Projects</b>
+  - [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app (TypeScript, C#, React, Dotnet Core, SQL)
+  - [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s warehouse app (Java, Wildfly, SQL)
+  - [Upspace](https://upspace.ca/)'s office space rental app (Ruby on Rails, AJAX)
 - <b>Front End Projects</b>
-  - [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project) (Typescript, Angular, Angular Material, SCSS, LESS, Bootstrap)
+  - Project management for [Intelliva](https://intelliva.ca/)'s new website - not yet published (Jira, JavaScript, React, SCSS)
+  - [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project) (TypeScript, Angular, Angular Material, SCSS, LESS, Bootstrap)
 - <b>Back End Projects</b>
   - [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) (JavaScript, NodeJS, ExpressJS, REST API, MongoDB, AWS Storage, Replit)
 - <b>Data Structures and Algorithms</b>
