@@ -2,6 +2,8 @@
 
 <h2>🌩️ System/Cloud Administration Projects:</h2>
 
+- <b>Certificates</b></br>
+[Microsoft Certified: Azure Administrator Associate AZ-104](https://learn.microsoft.com/api/credentials/share/en-us/MehediEhteshum-5437/EBD0ED38093397B1?sharingId=E176167B5A581A88) | [Microsoft Certified: Azure Fundamentals AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/MehediEhteshum-5437/246BC11508C5AAFE?sharingId=E176167B5A581A88)
 - <b>Active Directory Projects</b>
   - Active directory setup for [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app & sales report generation for [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s warehouse app, based on the least privilege access and role based access control RBAC
 - <b>Monitoring Projects</b>
