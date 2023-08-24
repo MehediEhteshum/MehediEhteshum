@@ -28,6 +28,15 @@
 - <b>Data Structures and Algorithms</b>
   - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) problem-solving (`JavaScript`)
 
+<h2>🛡️ Cyber Security Projects</h2>
+
+- <b>Information Security Projects</b>
+  - [Information security features implementation](https://github.com/MehediEhteshum/InformationSecurityChallenges) (`HelmetJS, NodeJS, ExpressJS`)
+  - [Password encryption & comparison](https://github.com/MehediEhteshum/InformationSecurityChallenge-BCrypt) (`HelmetJS, BCrypt, NodeJS, ExpressJS`)
+- <b>Penetration Testing Projects</b>
+  - [Penetration testing challenges using Python](https://github.com/MehediEhteshum/PenTestChallenges_Py) (`NMap, Socket`)
+  - Single Client [Reverse Shell Challenge using Python](https://github.com/MehediEhteshum/ReverseShellChallenge) (`Socket`)
+ 
 <h2>📈 Data Analysis and Visualization Projects</h2>
 
 - <b>Data Wrangling and Visualization</b>
