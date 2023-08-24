@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mehedi! <br/><a href="https://github.com/MehediEhteshum">Software Engineer</a>, <a href="https://www.linkedin.com/in/mehediehteshum/">IT System/Cloud Professional</a></h1>
 
-<h2>🌩️ System/Cloud Administration Projects:</h2>
+<h2>🌩️ System/Cloud Administration Projects</h2>
 
 - <b>Certificates</b></br>
 [Microsoft Certified: Azure Administrator Associate AZ-104](https://learn.microsoft.com/api/credentials/share/en-us/MehediEhteshum-5437/EBD0ED38093397B1?sharingId=E176167B5A581A88) | [Microsoft Certified: Azure Fundamentals AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/MehediEhteshum-5437/246BC11508C5AAFE?sharingId=E176167B5A581A88)
@@ -9,7 +9,7 @@
 - <b>Monitoring Projects</b>
   - Integrated Google Analytics & Google Tag Manager in [Ponts Jacques Cartier and Champlain Bridges](https://jacquescartierchamplain.ca/en/)' web pages & forms
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects</h2>
 
 - <b>Certificates</b></br>
 [APIs and Microservices](https://www.freecodecamp.org/certification/mehediehteshum/back-end-development-and-apis) | [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mehediehteshum/javascript-algorithms-and-data-structures) | 
@@ -28,7 +28,7 @@
 - <b>Data Structures and Algorithms</b>
   - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) problem-solving (`JavaScript`)
 
-<h2>📈 Data Analysis and Visualization Projects:</h2>
+<h2>📈 Data Analysis and Visualization Projects</h2>
 
 - <b>Data Wrangling and Visualization</b>
   - [Car Price Data Wrangling and Viz](https://github.com/MehediEhteshum/CarPriceDataWranglingViz/blob/master/CarPrice-DataWrangling%26Viz.ipynb) (`Pandas, Numpy, Matplotlib`)
@@ -37,7 +37,7 @@
 - <b>Model Development and Evaluation</b>
   - [Car Data - Model Development and Evaluation](https://github.com/MehediEhteshum/CarDataModelDevEvaluation/blob/master/CarData-MDE.ipynb) (`Pandas, Numpy, Matplotlib, Seaborn`)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="MehediEhteshum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MehediEhteshum | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
