@@ -1,4 +1,5 @@
-<h1>Hi, I'm Mehedi! <br/><a href="https://github.com/MehediEhteshum">Software Engineer</a>, <a href="https://www.linkedin.com/in/mehediehteshum/">IT System/Cloud Professional</a></h1>
+<h1>👋 Hi, I'm Mehedi! 👋<br/>
+  <a href="https://github.com/MehediEhteshum">Software Engineer</a>, <a href="https://www.linkedin.com/in/mehediehteshum/">IT System/Cloud Professional</a></h1>
 
 <h2>🌩️ System/Cloud Administration Projects</h2>
 
@@ -9,42 +10,57 @@
 - <b>Monitoring Projects</b>
   - Integrated Google Analytics & Google Tag Manager in [Ponts Jacques Cartier and Champlain Bridges](https://jacquescartierchamplain.ca/en/)' web pages & forms
 
+<b>Tools Used</b></br>
+`PowerShell | Bash | Azure CLI | Azure Portal | Google Workspace`
+
 <h2>👨‍💻 Software Development Projects</h2>
 
 - <b>Certificates</b></br>
 [APIs and Microservices](https://www.freecodecamp.org/certification/mehediehteshum/back-end-development-and-apis) | [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mehediehteshum/javascript-algorithms-and-data-structures) | 
 [Introduction to Computer Science and Programming 6.00x by MITx](https://verify.edx.org/cert/509781d6118f47efb12782497623a81a)
 - <b>Full Stack Projects</b>
-  - [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app (`TypeScript, C#, React, Dotnet Core, GraphQL, SQL`)
-  - [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s internal warehouse app (`Java, Wildfly`)
-  - [Flextherm](https://quote.flextherm.com/en)'s quote generation app (`JavaScript, AngularJS, ASP.Net, Cloudflare`)
-  - [Upspace](https://upspace.ca/)'s office space rental app (`Ruby on Rails, AJAX`)
+  - [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s internal warehouse app
+  - [Flextherm](https://quote.flextherm.com/en)'s quote generation app
+  - [Upspace](https://upspace.ca/)'s office space rental app
 - <b>Front End Projects</b>
-  - Project management for [Intelliva](https://intelliva.ca/)'s new business website - work in progress (`Jira, React, SCSS`)
-  - [Milk Marketing Board](https://albertamilk.com/)'s [supply chain app](https://portal.nitamms.com/login) & [Vivre en Ville](https://vivreenville.org/)'s housing market app (`jQuery, React, Django, Docker, Azure DevOps`)
-  - <ins>Other</ins>: Discover Canada cross-platform mobile app's [frontend](https://github.com/MehediEhteshum/DiscoverCanada-Frontend) using `Dart, Flutter` | [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project) UI app using `Angular, Angular Material, LESS, Bootstrap` | [Student Profile Craft](https://github.com/MehediEhteshum/Mosaic-StudentProfilesApp) UI app using `React, SASS, Netlify`
+  - Project management for [Intelliva](https://intelliva.ca/)'s new business website - work in progress
+  - [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app - UI
+  - [Milk Marketing Board](https://albertamilk.com/)'s [supply chain app](https://portal.nitamms.com/login) - UI
+  - [Vivre en Ville](https://vivreenville.org/)'s housing market app
+  - <ins>Other</ins>: Discover Canada cross-platform mobile app's [frontend](https://github.com/MehediEhteshum/DiscoverCanada-Frontend) | [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project) UI app | [Student Profile Craft](https://github.com/MehediEhteshum/Mosaic-StudentProfilesApp) UI app
 - <b>Back End Projects</b>
-  - Discover Canada cross-platform mobile app's [backend](https://github.com/MehediEhteshum/DiscoverCanada-Backend) using `JavaScript, ExpressJS` & [webscrapper](https://github.com/MehediEhteshum/DiscoverCanada-Webscrapper) using `Python, BeautifulSoup` | FreeCodeCamp's [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) API app and [API and microservice challenges](https://github.com/MehediEhteshum/APIandMSChallenges) using `JavaScript, NodeJS, ExpressJS, REST API, MongoDB, AWS Storage, Replit`
+  - [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app - backend
+  - [Milk Marketing Board](https://albertamilk.com/)'s [supply chain app](https://portal.nitamms.com/login) - backend
+  - <ins>Other</ins>: Discover Canada cross-platform mobile app's [backend](https://github.com/MehediEhteshum/DiscoverCanada-Backend) & [webscrapper](https://github.com/MehediEhteshum/DiscoverCanada-Webscrapper) | FreeCodeCamp's [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) API app and [API and microservice challenges](https://github.com/MehediEhteshum/APIandMSChallenges)
 - <b>Data Structures and Algorithms</b>
-  - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) problem-solving (`JavaScript`)
+  - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) problem-solving
+
+<b>Tools Used</b></br>
+`TypeScript | JavaScript | Dart | Python | Java | C# | jQuery | AJAX | React | Flutter | Angular | AngularJS | NodeJS | ExpressJS | Django | Ruby on Rails | Dotnet Core | ASP.Net | REST API | GraphQL | SQL | MongoDB | Docker | Azure DevOps | AWS Storage | Jira | Github | BitBucket | Wildfly | Cloudflare | Replit | Netlify | BeautifulSoup | Angular Material | SASS | SCSS | LESS | Bootstrap`
 
 <h2>🛡️ Cyber Security Projects</h2>
 
 - <b>Information Security Projects</b>
-  - [Information security features implementation](https://github.com/MehediEhteshum/InformationSecurityChallenges) (`HelmetJS, NodeJS, ExpressJS`)
-  - [Password encryption & comparison](https://github.com/MehediEhteshum/InformationSecurityChallenge-BCrypt) (`HelmetJS, BCrypt, NodeJS, ExpressJS`)
+  - [Information security features implementation](https://github.com/MehediEhteshum/InformationSecurityChallenges)
+  - [Password encryption & comparison](https://github.com/MehediEhteshum/InformationSecurityChallenge-BCrypt)
 - <b>Penetration Testing Projects</b>
-  - [Penetration testing challenges using Python](https://github.com/MehediEhteshum/PenTestChallenges_Py) (`NMap, Socket`)
-  - Single Client [Reverse Shell Challenge using Python](https://github.com/MehediEhteshum/ReverseShellChallenge) (`Socket`)
+  - [Penetration testing challenges](https://github.com/MehediEhteshum/PenTestChallenges_Py)
+  - Single client [Reverse Shell challenge](https://github.com/MehediEhteshum/ReverseShellChallenge)
+
+<b>Tools Used</b></br>
+`JavaScript | Python | HelmetJS | BCrypt | NodeJS | ExpressJS | NMap | Socket`
  
 <h2>📈 Data Analysis and Visualization Projects</h2>
 
 - <b>Data Wrangling and Visualization</b>
-  - [Car Price Data Wrangling and Viz](https://github.com/MehediEhteshum/CarPriceDataWranglingViz/blob/master/CarPrice-DataWrangling%26Viz.ipynb) (`Pandas, Numpy, Matplotlib`)
+  - [Car Price Data Wrangling and Viz](https://github.com/MehediEhteshum/CarPriceDataWranglingViz/blob/master/CarPrice-DataWrangling%26Viz.ipynb)
 - <b>Exploratory Data Analysis and Visualization</b>
-  - [Car Data - Exploratory Data Analysis](https://github.com/MehediEhteshum/CarDataExploratoryAnalysisViz/blob/master/CarData-EDA%26Viz.ipynb) (`Pandas, Numpy, Matplotlib, Seaborn`)
+  - [Car Data - Exploratory Data Analysis](https://github.com/MehediEhteshum/CarDataExploratoryAnalysisViz/blob/master/CarData-EDA%26Viz.ipynb)
 - <b>Model Development and Evaluation</b>
-  - [Car Data - Model Development and Evaluation](https://github.com/MehediEhteshum/CarDataModelDevEvaluation/blob/master/CarData-MDE.ipynb) (`Pandas, Numpy, Matplotlib, Seaborn`)
+  - [Car Data - Model Development and Evaluation](https://github.com/MehediEhteshum/CarDataModelDevEvaluation/blob/master/CarData-MDE.ipynb)
+
+<b>Tools Used</b></br>
+`Pandas | Numpy | Matplotlib | Seaborn`
 
 <h2> 🤳 Connect with me</h2>
 
