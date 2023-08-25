@@ -16,15 +16,15 @@
 [Introduction to Computer Science and Programming 6.00x by MITx](https://verify.edx.org/cert/509781d6118f47efb12782497623a81a)
 - <b>Full Stack Projects</b>
   - [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app (`TypeScript, C#, React, Dotnet Core, GraphQL, SQL`)
-  - [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s internal warehouse app (`Java, Wildfly, SQL`)
+  - [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s internal warehouse app (`Java, Wildfly`)
   - [Flextherm](https://quote.flextherm.com/en)'s quote generation app (`JavaScript, AngularJS, ASP.Net, Cloudflare`)
   - [Upspace](https://upspace.ca/)'s office space rental app (`Ruby on Rails, AJAX`)
 - <b>Front End Projects</b>
-  - Project management for [Intelliva](https://intelliva.ca/)'s new business website - work in progress (`Jira, JavaScript, React, SCSS`)
-  - [Milk Marketing Board](https://albertamilk.com/)'s [supply chain app](https://portal.nitamms.com/login) & [Vivre en Ville](https://vivreenville.org/)'s housing market app (`TypeScript, jQuery, React, Django, Docker, Azure DevOps`)
-  - [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project) UI app (`TypeScript, Angular, Angular Material, SCSS, LESS, Bootstrap`)
+  - Project management for [Intelliva](https://intelliva.ca/)'s new business website - work in progress (`Jira, React, SCSS`)
+  - [Milk Marketing Board](https://albertamilk.com/)'s [supply chain app](https://portal.nitamms.com/login) & [Vivre en Ville](https://vivreenville.org/)'s housing market app (`jQuery, React, Django, Docker, Azure DevOps`)
+  - <ins>Other</ins>: Discover Canada cross-platform mobile app's [frontend](https://github.com/MehediEhteshum/DiscoverCanada-Frontend) using `Dart, Flutter` | [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project) UI app using `Angular, Angular Material, LESS, Bootstrap` | [Student Profile Craft](https://github.com/MehediEhteshum/Mosaic-StudentProfilesApp) UI app using `React, SASS, Netlify`
 - <b>Back End Projects</b>
-  - [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) API app (`JavaScript, NodeJS, ExpressJS, REST API, MongoDB, AWS Storage, Replit`)
+  - Discover Canada cross-platform mobile app's [backend](https://github.com/MehediEhteshum/DiscoverCanada-Backend) using `JavaScript, ExpressJS` & [webscrapper](https://github.com/MehediEhteshum/DiscoverCanada-Webscrapper) using `Python, BeautifulSoup` | FreeCodeCamp's [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) API app and [API and microservice challenges](https://github.com/MehediEhteshum/APIandMSChallenges) using `JavaScript, NodeJS, ExpressJS, REST API, MongoDB, AWS Storage, Replit`
 - <b>Data Structures and Algorithms</b>
   - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) problem-solving (`JavaScript`)
 
