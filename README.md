@@ -64,12 +64,12 @@
 
 <h2> 🤳 Connect with me</h2>
 
-[<img align="left" alt="MehediEhteshum | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MehediEhteshum | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MehediEhteshum | LinkedIn" width="22px" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/social-icons/social-icons/linkedin.png" />][linkedin]
+[<img align="left" alt="MehediEhteshum | Twitter" width="22px" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/social-icons/twitter.png" />][twitter]
 <!--
 [<img align="left" alt="MehediEhteshum | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 -->
-[<img align="left" alt="MehediEhteshum | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MehediEhteshum | Instagram" width="22px" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/social-icons/social-icons/instagram.png" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/mehediehteshum/
 [twitter]: https://twitter.com/Mehedi_Ehteshum
