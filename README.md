@@ -33,7 +33,7 @@
   - ✅ [Upspace](https://upspace.ca/)'s office space rental app using Ruby on Rails, AJAX, jQuery
   - <ins>Others</ins>: ✍️ [Blog](https://github.com/MehediEhteshum/MehedisBlog-Django) practice app using Django | ✍️ [Ecommerce](https://github.com/MehediEhteshum/dj-ecommerce) practice app using Django | ✍️ [Blog](https://github.com/MehediEhteshum/MehedisBlogWebApp) practice app using Rails
 - <b>Data Structures and Algorithms</b>
-  - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) problem-solving using JavaScript
+  - ✍️ [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) problem-solving using JavaScript
 - <b>Interactive Game Projects</b></br>
   🎮 [Asteroids: The Game](https://py2.codeskulptor.org/#user16_6V6JH4iIGLAJt3M.py) using PyGame - press 'play' button | 🎮 [Google Minesweeper](https://github.com/MehediEhteshum/Minesweeper) clone for Windows using PyGame, Python
 
@@ -43,11 +43,11 @@
 <h2>🛡️ Cyber Security Projects</h2>
 
 - <b>Information Security Projects</b>
-  - [Information security features implementation](https://github.com/MehediEhteshum/InformationSecurityChallenges) using HelmetJS, NodeJS, ExpressJS
-  - [Password encryption & comparison](https://github.com/MehediEhteshum/InformationSecurityChallenge-BCrypt) using HelmetJS, BCrypt, ExpressJS
+  - ✍️ [Information security features implementation](https://github.com/MehediEhteshum/InformationSecurityChallenges) using HelmetJS, NodeJS, ExpressJS
+  - ✍️ [Password encryption & comparison](https://github.com/MehediEhteshum/InformationSecurityChallenge-BCrypt) using HelmetJS, BCrypt, ExpressJS
 - <b>Penetration Testing Projects</b>
-  - [Penetration testing challenges](https://github.com/MehediEhteshum/PenTestChallenges_Py) using Python, NMap, Socket
-  - Single client [Reverse Shell challenge](https://github.com/MehediEhteshum/ReverseShellChallenge) using Python, Socket
+  - ✍️ [Penetration testing challenges](https://github.com/MehediEhteshum/PenTestChallenges_Py) using Python, NMap, Socket
+  - ✍️ Single client [Reverse Shell challenge](https://github.com/MehediEhteshum/ReverseShellChallenge) using Python, Socket
 
 <b>Tools Used</b></br>
 `JavaScript | Python | HelmetJS | BCrypt | NodeJS | ExpressJS | NMap | Socket`
@@ -55,11 +55,11 @@
 <h2>📈 Data Analysis and Visualization Projects</h2>
 
 - <b>Data Wrangling and Visualization</b>
-  - [Car Price Data Wrangling and Viz](https://github.com/MehediEhteshum/CarPriceDataWranglingViz/blob/master/CarPrice-DataWrangling%26Viz.ipynb) using Jupyter Notebook, Pandas, Numpy, Matplotlib
+  - ✍️ [Car Price Data Wrangling and Viz](https://github.com/MehediEhteshum/CarPriceDataWranglingViz/blob/master/CarPrice-DataWrangling%26Viz.ipynb) using Jupyter Notebook, Pandas, Numpy, Matplotlib
 - <b>Exploratory Data Analysis and Visualization</b>
-  - [Car Data - Exploratory Data Analysis](https://github.com/MehediEhteshum/CarDataExploratoryAnalysisViz/blob/master/CarData-EDA%26Viz.ipynb) using Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn
+  - ✍️ [Car Data - Exploratory Data Analysis](https://github.com/MehediEhteshum/CarDataExploratoryAnalysisViz/blob/master/CarData-EDA%26Viz.ipynb) using Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn
 - <b>Model Development and Evaluation</b>
-  - [Car Data - Model Development and Evaluation](https://github.com/MehediEhteshum/CarDataModelDevEvaluation/blob/master/CarData-MDE.ipynb) using Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn
+  - ✍️ [Car Data - Model Development and Evaluation](https://github.com/MehediEhteshum/CarDataModelDevEvaluation/blob/master/CarData-MDE.ipynb) using Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn
 
 <b>Tools Used</b></br>
 `Jupyter Notebook | Pandas | Numpy | Matplotlib | Seaborn`
