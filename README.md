@@ -17,11 +17,6 @@
 
 - <b>Certificates</b></br>
 🏆 [APIs and Microservices](https://www.freecodecamp.org/certification/mehediehteshum/back-end-development-and-apis) | 🏆 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mehediehteshum/javascript-algorithms-and-data-structures) | 🏆 [Intro to Computer Science and Programming 6.00x by MITx](https://verify.edx.org/cert/509781d6118f47efb12782497623a81a)
-- <b>Full Stack Projects</b>
-  - ✅ [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s internal warehouse app using Java, SQL, Wildfly
-  - ✅ [Flextherm](https://quote.flextherm.com/en)'s quote generation app using C#, ASP.Net, AngularJS, Cloudflare
-  - ✅ [Upspace](https://upspace.ca/)'s office space rental app using Ruby on Rails, AJAX, jQuery
-  - <ins>Others</ins>: ✍️ [Blog](https://github.com/MehediEhteshum/MehedisBlog-Django) practice app using Django | ✍️ [Ecommerce](https://github.com/MehediEhteshum/dj-ecommerce) practice app using Django | ✍️ [Blog](https://github.com/MehediEhteshum/MehedisBlogWebApp) practice app using Rails
 - <b>Front End Projects</b>
   - ✅ Project management for [Intelliva](https://intelliva.ca/)'s new business website - work in progress - using Jira, JavaScript, React, SCSS
   - ✅ [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app - UI - using TypeScript, React, GraphQL
@@ -32,6 +27,11 @@
   - ✅ [Great Lakes St. Lawrence Seaway System](https://greatlakes-seaway.com/en/)'s internal administrative app - backend - using C#, Dotnet Core, GraphQL, SQL
   - ✅ [Milk Marketing Board](https://albertamilk.com/)'s [supply chain app](https://portal.nitamms.com/login) - backend - using Python, Django, Azure DevOps
   - <ins>Others</ins>: ✍️ Discover Canada cross-platform mobile app's [backend](https://github.com/MehediEhteshum/DiscoverCanada-Backend) using NodeJS, ExpressJS, & [webscrapper](https://github.com/MehediEhteshum/DiscoverCanada-Webscrapper) using Python, BeautifulSoup | ✍️ FreeCodeCamp's [Exercise Tracker](https://github.com/MehediEhteshum/FCC-ExerciseTracker) API app and [API and microservice challenges](https://github.com/MehediEhteshum/APIandMSChallenges) using JavaScript, ExpressJS, MongoDB, AWS Storage, REST API, Replit
+- <b>Full Stack Projects</b>
+  - ✅ [Clayton Shagal](https://claytonshagal.com/ca/en/home.html)'s internal warehouse app using Java, SQL, Wildfly
+  - ✅ [Flextherm](https://quote.flextherm.com/en)'s quote generation app using C#, ASP.Net, AngularJS, Cloudflare
+  - ✅ [Upspace](https://upspace.ca/)'s office space rental app using Ruby on Rails, AJAX, jQuery
+  - <ins>Others</ins>: ✍️ [Blog](https://github.com/MehediEhteshum/MehedisBlog-Django) practice app using Django | ✍️ [Ecommerce](https://github.com/MehediEhteshum/dj-ecommerce) practice app using Django | ✍️ [Blog](https://github.com/MehediEhteshum/MehedisBlogWebApp) practice app using Rails
 - <b>Data Structures and Algorithms</b>
   - [Practising DS & Algos](https://github.com/MehediEhteshum/AlgoChallenges-JS) problem-solving using JavaScript
 - <b>Interactive Game Projects</b></br>
