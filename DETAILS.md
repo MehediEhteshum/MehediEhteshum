@@ -1,5 +1,4 @@
-<h1>👋 Hi, I'm Mehedi! 👋<br/>
-  <a href="https://github.com/MehediEhteshum">Software Engineer</a>, <a href="https://www.linkedin.com/in/mehediehteshum/">IT System/Cloud Professional</a></h1>
+![MasterHead](https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/Banner%20LinkedIn.png)
 
 <h2>🌩️ System/Cloud Administration Projects</h2>
 
@@ -66,18 +65,17 @@
 
 <h2> 🤳 Connect with me</h2>
 
-[<img align="left" alt="MehediEhteshum | LinkedIn" width="22px" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/social-icons/social-icons/linkedin.png" />][linkedin]
-[<img align="left" alt="MehediEhteshum | Twitter" width="22px" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/social-icons/twitter.png" />][twitter]
+[<img align="left" alt="MehediEhteshum | LinkedIn" width="50px" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/social/linkedin.gif" />][linkedin]
+[<img align="left" alt="MehediEhteshum | Twitter" width="50px" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/social/twitter.gif" />][twitter]
 <!--
-[<img align="left" alt="MehediEhteshum | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="MehediEhteshum | Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 -->
-[<img align="left" alt="MehediEhteshum | Instagram" width="22px" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/social-icons/social-icons/instagram.png" />][instagram]
+[<img align="left" alt="MehediEhteshum | Instagram" width="50px" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/social/instagram.gif" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/mehediehteshum/
 [twitter]: https://twitter.com/Mehedi_Ehteshum
 [facebook]: https://www.instagram.com/mehedi.ehteshum/
 [instagram]: https://www.instagram.com/mehedi.ehteshum/
-
 <!--
 **MehediEhteshum/MehediEhteshum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
