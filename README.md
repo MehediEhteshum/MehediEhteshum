@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/Banner%20LinkedIn.png)
 
-<img align="left" alt="MehediEhteshum | Handwave" width="35" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/hand.gif" />
 <h1>Hi, I'm Mehedi!</h1>
 
 <h3><a href="https://www.linkedin.com/in/mehediehteshum/">Software Engineer</a>, <a href="https://www.linkedin.com/in/mehediehteshum/">IT System/Cloud Professional</a> from Canada</h3>
