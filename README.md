@@ -3,8 +3,20 @@
 <img align="left" alt="MehediEhteshum | Handwave" width="35" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/hand.gif" />
 <h1>Hi, I'm Mehedi!</h1>
 
-<h3><a href="https://www.linkedin.com/in/mehediehteshum/">Software Engineer</a>, <a href="https://www.linkedin.com/in/mehediehteshum/">IT System/Cloud Professional</a> from Canada</h3>
+<h3><a href="https://www.linkedin.com/in/mehediehteshum/">Software Engineer (Full Stack)</a>, <a href="https://www.linkedin.com/in/mehediehteshum/">IT System/Cloud Professional</a> from Canada</h3>
+
 Throughout my professional career, I have gained experience and certifications in Cloud Technologies, different Software Development stacks, Customer Service and Engineering. I have owned, executed, coordinated and collaborated in projects and delivered on time through planning, problem solving, documentation, communication and client handling. Continuous learning and development are an integral part of my career for growing and establishing myself towards Software Engineering, Cloud Computing, Cyber Security and Information Technology.
+
+<h2>🎆 Projects </h2>
+
+**Top Clients:** ✅ [Seaway](https://greatlakes-seaway.com/en/) | ✅ [Clayton Shagal](https://claytonshagal.com/ca/en/home.html) | ✅ [Canada Milk Marketing Board ](https://portal.nitamms.com/login)| ✅ [PJCCI](https://jacquescartierchamplain.ca/en/) | ✅ [Flextherm](https://quote.flextherm.com/en) | ✅ [Intelliva](https://intelliva.ca/) | ✅ [Upspace](https://upspace.ca/) | ✅ [Spiria](https://www.spiria.com/) <br>
+**Cloud / IT Systems:** ✅ [Windows Active Directory & GPO Implementation](https://github.com/MehediEhteshum/ad-gpo-ou/blob/main/README.md) | ✅ [Terraform: Multi-Cloud Environment Deployment](https://github.com/MehediEhteshum/terraform-deploy-env/blob/main/README.md) <br>
+**Back End:** ✅ [Discover Canada - backend](https://github.com/MehediEhteshum/DiscoverCanada-Backend) & [webscrapper](https://github.com/MehediEhteshum/DiscoverCanada-Webscrapper) (`NodeJS`, `ExpressJS`, `Python BeautifulSoup`) <br>
+**Front End:** ✅ [User Profile Craft](https://github.com/MehediEhteshum/Craft-Project/blob/master/README.md) | ✅ [Student Profile Craft](https://github.com/MehediEhteshum/Mosaic-StudentProfilesApp/blob/master/README.md) <br>
+**Mobile:** ✅ [Discover Canada - frontend](https://github.com/MehediEhteshum/DiscoverCanada-Frontend) (`Flutter`) <br>
+**Cyber Security:** ✅ [Information Security Features Implementation](https://github.com/MehediEhteshum/InformationSecurityChallenges/blob/master/README.md) | ✅ [Password Encryption & Comparison](https://github.com/MehediEhteshum/InformationSecurityChallenge-BCrypt/blob/master/README.md) | ✅ [Penetration Testing Challenges](https://github.com/MehediEhteshum/PenTestChallenges_Py/blob/master/readme.md) | ✅ [Single Client Reverse Shell](https://github.com/MehediEhteshum/ReverseShellChallenge/blob/master/readme.md) <br>
+**Game:** ✅ [Google Minesweeper Clone](https://github.com/MehediEhteshum/Minesweeper/blob/master/README.md) | ✅ [Asteroids: The Game](https://py2.codeskulptor.org/#user16_6V6JH4iIGLAJt3M.py) <br>
+**Data Analysis:** ✅ [Car Price Data Wrangling and Viz](https://github.com/MehediEhteshum/CarPriceDataWranglingViz/blob/master/CarPrice-DataWrangling%26Viz.ipynb) | ✅ [Car Data - Exploratory Data Analysis](https://github.com/MehediEhteshum/CarDataExploratoryAnalysisViz/blob/master/CarData-EDA%26Viz.ipynb) | ✅ [Car Data - Model Development and Evaluation](https://github.com/MehediEhteshum/CarDataModelDevEvaluation/blob/master/CarData-MDE.ipynb)
 
 <h3><a href="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/DETAILS.md">CLICK HERE TO LEARN MORE ABOUT MY WORKS</a></h3>
 
