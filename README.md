@@ -6,6 +6,14 @@
 <h3><a href="https://www.linkedin.com/in/mehediehteshum/">Software Engineer</a>, <a href="https://www.linkedin.com/in/mehediehteshum/">IT System/Cloud Professional</a> from Canada</h3>
 Throughout my professional career, I have gained experience and certifications in Cloud Technologies, different Software Development stacks, Customer Service and Engineering. I have owned, executed, coordinated and collaborated in projects and delivered on time through planning, problem solving, documentation, communication and client handling. Continuous learning and development are an integral part of my career for growing and establishing myself towards Software Engineering, Cloud Computing, Cyber Security and Information Technology.
 
+<h2>🧰 Tools</h2>
+
+<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</code>
+<code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript</code>
+<code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> NodeJS</code>
+<code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React</code>
+<code><img height="30" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"> GraphQL</code>
+
 <h3><a href="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/DETAILS.md">CLICK HERE TO LEARN MORE ABOUT MY WORKS</a></h3>
 
 <h2> 🤳 Connect with me</h2>
