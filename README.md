@@ -9,7 +9,7 @@ Throughout my professional career, I have gained experience and certifications i
 
 <h2>🎆 Projects </h2>
 
-<img align="right" alt="MehediEhteshum | multitask" width="350" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/multitask.gif" />
+<img align="right" alt="MehediEhteshum | multitask" width="300" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/multitask.gif" />
 
 **Top Clients:** ✅ [Seaway](https://greatlakes-seaway.com/en/) | ✅ [Clayton Shagal](https://claytonshagal.com/ca/en/home.html) | ✅ [Canada Milk Marketing Board ](https://portal.nitamms.com/login)| ✅ [PJCCI](https://jacquescartierchamplain.ca/en/) | ✅ [Flextherm](https://quote.flextherm.com/en) | ✅ [Intelliva](https://intelliva.ca/) | ✅ [Upspace](https://upspace.ca/) | ✅ [Spiria](https://www.spiria.com/) <br>
 **Cloud / IT Systems:** ✅ [Windows Active Directory & GPO Implementation](https://github.com/MehediEhteshum/ad-gpo-ou/blob/main/README.md) | ✅ [Terraform: Multi-Cloud Environment Deployment](https://github.com/MehediEhteshum/terraform-deploy-env/blob/main/README.md) <br>
