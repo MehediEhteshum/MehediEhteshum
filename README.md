@@ -5,7 +5,7 @@
 
 <h3><a href="https://www.linkedin.com/in/mehediehteshum/">Software Engineer (Full Stack)</a>, <a href="https://www.linkedin.com/in/mehediehteshum/">IT System/Cloud Professional</a> from Canada</h3>
 
-Throughout my professional career, I have gained experience and certifications in Cloud Technologies, different Software Development stacks, Customer Service and Engineering. I have owned, executed, coordinated and collaborated in projects and delivered on time through planning, problem solving, documentation, communication and client handling. Continuous learning and development are an integral part of my career for growing and establishing myself towards Software Engineering, Cloud Computing, Cyber Security and Information Technology.
+A Software and IT professional who turns business ideas into value-added services. I have experience and certifications in Software Development stacks, Cloud Computing, Information Technology, Customer Service and Engineering. I have owned, executed, coordinated, and collaborated on projects and delivered on time through planning, problem-solving, documentation, communication, and client handling. Continuous learning and development are integral parts of my career.
 
 <h2>🎆 Projects </h2>
 
