@@ -24,29 +24,19 @@ A Software and IT professional who turns business ideas into value-added service
 
 <h2>🧰 Tools</h2>
 
-<code><img height="30" alt="azure" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/azure.png"> Azure</code>
-<code><img height="30" alt="terraform" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/terraform.png"> Terraform</code>
-<code><img height="30" alt="active_directory" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/active_directory.png"> Active Directory</code>
-<code><img height="30" alt="google_workspace" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/google_workspace.png"> Google Workspace</code>
-<code><img height="30" alt="gcp" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/gcp.png"> GCP</code>
-<code><img height="30" alt="aws" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/aws.png"> AWS</code>
-<code><img height="30" alt="powershell" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/powershell.png"> Powershell</code>
-<code><img height="30" alt="bash" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/bash.png"> Bash</code>
+<code><img height="30" alt="node" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/node.png"> NodeJS</code>
+<code><img height="30" alt="express" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/express.png"> ExpressJS</code>
+<code><img height="30" alt="flutter" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/flutter.png"> Flutter</code>
+<code><img height="30" alt="react" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/react.jpg"> React</code>
+<code><img height="30" alt="django" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/django.png"> Django</code>
 <code><img height="30" alt="typescript" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/typescript.png"> TypeScript</code>
 <code><img height="30" alt="javascript" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/javascript.png"> JavaScript</code>
 <code><img height="30" alt="python" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/python.png"> Python</code>
-<code><img height="30" alt="react" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/react.jpg"> React</code>
-<code><img height="30" alt="react_native" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/react_native.png"> React Native</code>
-<code><img height="30" alt="flutter" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/flutter.png"> Flutter</code>
-<code><img height="30" alt="node" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/node.png"> NodeJS</code>
-<code><img height="30" alt="express" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/express.png"> ExpressJS</code>
-<code><img height="30" alt="django" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/django.png"> Django</code>
 <code><img height="30" alt="rest" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/rest.jpg"> REST API</code>
 <code><img height="30" alt="graphql" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/graphql.png"> GraphQL</code>
 <code><img height="30" alt="postgresql" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/postgresql.png"> PostgreSQL</code>
 <code><img height="30" alt="mysql" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/mysql.png"> MySQL</code>
 <code><img height="30" alt="mongo" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/mongo.png"> MongoDB</code>
-<code><img height="30" alt="figma" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/figma.png"> Figma</code>
 <code><img height="30" alt="docker" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/docker.png"> Docker</code>
 <code><img height="30" alt="jira" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/jira.png"> Jira</code>
 <code><img height="30" alt="git" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/git.png"> Git</code>
@@ -55,6 +45,15 @@ A Software and IT professional who turns business ideas into value-added service
 <code><img height="30" alt="tailwind" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/tailwind.png"> Tailwind</code>
 <code><img height="30" alt="bootstrap" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/bootstrap.png"> Bootstrap</code>
 <code><img height="30" alt="sass" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/sass.png"> SASS</code>
+<code><img height="30" alt="azure" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/azure.png"> Azure</code>
+<code><img height="30" alt="aws" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/aws.png"> AWS</code>
+<code><img height="30" alt="gcp" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/gcp.png"> GCP</code>
+<code><img height="30" alt="terraform" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/terraform.png"> Terraform</code>
+<code><img height="30" alt="active_directory" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/active_directory.png"> Active Directory</code>
+<code><img height="30" alt="google_workspace" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/google_workspace.png"> Google Workspace</code>
+<code><img height="30" alt="powershell" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/powershell.png"> Powershell</code>
+<code><img height="30" alt="bash" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/bash.png"> Bash</code>
+<code><img height="30" alt="figma" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/figma.png"> Figma</code>
 <code><img height="30" alt="chatgpt" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/chatgpt.png"> Prompt Engineering</code>
 
 <h2> 🤳 Connect with me</h2>
