@@ -12,8 +12,8 @@ A Software and IT professional who turns business ideas into value-added service
 <img align="right" alt="MehediEhteshum | multitask" width="300" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/multitask.gif" />
 
 **Top Clients:** ✅ [Seaway](https://greatlakes-seaway.com/en/) | ✅ [Clayton Shagal](https://claytonshagal.com/ca/en/home.html) | ✅ [Canada Milk Marketing Board ](https://portal.nitamms.com/login)| ✅ [PJCCI](https://jacquescartierchamplain.ca/en/) | ✅ [Flextherm](https://quote.flextherm.com/en) | ✅ [Intelliva](https://intelliva.ca/) | ✅ [Upspace](https://upspace.ca/) | ✅ [Spiria](https://www.spiria.com/) <br>
-**Back End:** ✅ [Contacts Management API](https://contacts-management-api.vercel.app/api/docs/) ([Readme](https://github.com/MehediEhteshum/contacts_backend/blob/main/README.md)) ✅ [Discover Canada - backend](https://github.com/MehediEhteshum/DiscoverCanada-Backend) & [webscrapper](https://github.com/MehediEhteshum/DiscoverCanada-Webscrapper) <br>
-**Mobile:** ✅ [Safe Surf](https://github.com/MehediEhteshum/safe_surf/blob/main/README.md) ✅ [Discover Canada - frontend](https://github.com/MehediEhteshum/DiscoverCanada-Frontend) <br>
+**Back End:** ✅ [Product Management Microservice](https://product-service-nestjs-api.vercel.app/products) ([Readme](https://github.com/MehediEhteshum/product_service/blob/main/README.md)) | ✅ [Contacts Management API](https://contacts-management-api.vercel.app/api/docs/) ([Readme](https://github.com/MehediEhteshum/contacts_backend/blob/main/README.md)) | ✅ [Discover Canada - backend](https://github.com/MehediEhteshum/DiscoverCanada-Backend) & [webscrapper](https://github.com/MehediEhteshum/DiscoverCanada-Webscrapper) <br>
+**Mobile:** ✅ [Safe Surf](https://github.com/MehediEhteshum/safe_surf/blob/main/README.md) | ✅ [Discover Canada - frontend](https://github.com/MehediEhteshum/DiscoverCanada-Frontend) <br>
 **Front End:** ✅ [PDF Library](https://github.com/MehediEhteshum/pdf_library/blob/main/README.md) | ✅ [NewsNest](https://news-nest-nine.vercel.app/) ([Readme](https://github.com/MehediEhteshum/news_nest/blob/main/README.md)) >> ongoing <br>
 **Cloud / IT Systems:** ✅ [Windows Active Directory & GPO Implementation](https://github.com/MehediEhteshum/ad-gpo-ou/blob/main/README.md) | ✅ [Terraform: Multi-Cloud Environment Deployment](https://github.com/MehediEhteshum/terraform-deploy-env/blob/main/README.md) | ✅ [Oracle Cloud VM deployment Automation for Retries](https://github.com/MehediEhteshum/oracle_vm_arm_deploy/blob/main/README.md) <br>
 **Cyber Security:** ✅ [Information Security Features Implementation](https://github.com/MehediEhteshum/InformationSecurityChallenges/blob/master/README.md) | ✅ [Password Encryption & Comparison](https://github.com/MehediEhteshum/InformationSecurityChallenge-BCrypt/blob/master/README.md) | ✅ [Penetration Testing Challenges](https://github.com/MehediEhteshum/PenTestChallenges_Py/blob/master/readme.md) | ✅ [Single Client Reverse Shell](https://github.com/MehediEhteshum/ReverseShellChallenge/blob/master/readme.md) <br>
@@ -24,8 +24,9 @@ A Software and IT professional who turns business ideas into value-added service
 
 <h2>🧰 Tools</h2>
 
-<code><img height="30" alt="node" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/node.png"> NodeJS</code>
-<code><img height="30" alt="express" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/express.png"> ExpressJS</code>
+<code><img height="30" alt="nest" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/nestjs.png"> NestJS</code>
+<code><img height="30" alt="node" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/node.png"> Node.js</code>
+<code><img height="30" alt="express" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/express.png"> Express.js</code>
 <code><img height="30" alt="flutter" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/flutter.png"> Flutter</code>
 <code><img height="30" alt="react" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/react.jpg"> React</code>
 <code><img height="30" alt="django" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/django.png"> Django</code>
@@ -46,6 +47,7 @@ A Software and IT professional who turns business ideas into value-added service
 <code><img height="30" alt="bootstrap" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/bootstrap.png"> Bootstrap</code>
 <code><img height="30" alt="sass" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/sass.png"> SASS</code>
 <code><img height="30" alt="azure" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/azure.png"> Azure</code>
+<code><img height="30" alt="oracle-cloud" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/oracle-cloud.png"> Oracle Cloud</code>
 <code><img height="30" alt="aws" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/aws.png"> AWS</code>
 <code><img height="30" alt="gcp" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/gcp.png"> GCP</code>
 <code><img height="30" alt="terraform" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/terraform.png"> Terraform</code>
@@ -53,6 +55,10 @@ A Software and IT professional who turns business ideas into value-added service
 <code><img height="30" alt="google_workspace" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/google_workspace.png"> Google Workspace</code>
 <code><img height="30" alt="powershell" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/powershell.png"> Powershell</code>
 <code><img height="30" alt="bash" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/bash.png"> Bash</code>
+<code><img height="30" alt="kafka" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/kafka.png"> Kafka</code>
+<code><img height="30" alt="redis" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/redis.png"> Redis</code>
+<code><img height="30" alt="elasticsearch" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/elasticsearch.png"> Elasticsearch</code>
+<code><img height="30" alt="prisma" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/prisma.png"> Prisma</code>
 <code><img height="30" alt="figma" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/figma.png"> Figma</code>
 <code><img height="30" alt="chatgpt" src="https://github.com/MehediEhteshum/MehediEhteshum/blob/main/assets/tools/chatgpt.png"> Prompt Engineering</code>
 
